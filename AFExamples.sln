@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AFExamples", "AFExamples\AFExamples.csproj", "{214E8E09-15E5-4A31-979D-E73FA9C2E4D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{214E8E09-15E5-4A31-979D-E73FA9C2E4D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{214E8E09-15E5-4A31-979D-E73FA9C2E4D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{214E8E09-15E5-4A31-979D-E73FA9C2E4D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{214E8E09-15E5-4A31-979D-E73FA9C2E4D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66835B50-AE86-47BE-AAF8-0A0DC4CA2F19}
+	EndGlobalSection
+EndGlobal
